@@ -13,4 +13,4 @@
 
 （5）对查询、统计的结果打印输出。系统要实现满足多种条件的统计分析功能，有些统计数据要采用图表的格式呈现；
 
-![主界面](https://github.com/Sprinklegcy/-PSMS/blob/master/p3.png)
+![主界面](p3.png)
